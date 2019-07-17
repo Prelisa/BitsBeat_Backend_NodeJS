@@ -1,0 +1,21 @@
+{
+  "name": "etheral-email",
+  "version": "1.0.0",
+  "description": "sample app using nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "development": "nodemon app.js"
+  },
+  "author": "Prelisa",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-handler": "^0.2.0",
+    "hbs": "^4.0.4",
+    "nodemailer": "^6.3.0",
+    "nodemon": "^1.19.1"
+  }
+}
